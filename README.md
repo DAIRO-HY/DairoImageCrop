@@ -3,9 +3,7 @@
 `SwiftUI` 图片裁剪
 
 <p align="center">
-<video src='video/video.mp4' controls>
-    <source src="video/video.mp4" type="video/mp4">
-</video>
+<img src='Resource/demo.gif' width='200'>
 </p>
 
 ## 内容列表
