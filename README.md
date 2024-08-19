@@ -37,7 +37,7 @@ dependencies: [
 
 ## 使用说明
 
-- 基础使用：`DairoImageCropView` 的参数有默认值，你只需要简单的传入数据源即可食用~
+- 基础使用：`DairoImageCropView` 的参数有默认值，你只需要简单的传入数据源即可使用~
 ```swift
 DairoImageCropView(cropWHRate:"2:1", inputImage: self.vm.inputImage!){
     self.cropImage = $0
